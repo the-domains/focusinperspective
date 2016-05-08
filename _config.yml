@@ -1,0 +1,28 @@
+name: FocusInPerspective
+favicon: null
+layout_spectrum: 0.8972346703521907
+typography_spectrum: 0.14697270630858839
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.16383939562365413
+  lightness: 0.9605809503700584
+  saturation: 0.14541066344827414
+  rhythmicContrast: 0.8443236898165196
+purpose: []
